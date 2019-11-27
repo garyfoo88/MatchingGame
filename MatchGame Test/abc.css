@@ -1,0 +1,50 @@
+@font-face{
+    font-family: 'Lobster', cursive;
+    src:url(https://fonts.googleapis.com/css?family=Lobster&display=swap);
+}
+
+html{
+    background-color: lawngreen;
+    cursor: url(abc.ani), auto;
+}
+
+
+*{
+    color: rgba(16, 126, 84, 0.712);
+    text-align: center;
+}
+
+h1{
+    color:red;
+    text-align: end;
+}
+
+div{
+    color:Blue;
+    border-style: solid;
+    border-color: red;
+    border-width: 150px;
+    
+}
+
+.Hello{
+    color: grey;
+    text-align: left;
+    font-family: Lobster, cursive;
+    text-transform: uppercase;
+    font-size: 5em;
+    
+}
+
+div:hover{
+    color: royalblue;
+}
+
+
+span{
+    color: hotpink;
+}
+
+#abc{
+    color: hotpink;
+}
